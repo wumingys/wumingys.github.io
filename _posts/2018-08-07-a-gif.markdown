@@ -1,0 +1,8 @@
+---
+layout: post
+title: 试试动画~
+date: 2018-08-07 20:14:00 +0800
+---
+下面是动画
+
+![kiss]({{ site.url }}/assets/cat.gif)
